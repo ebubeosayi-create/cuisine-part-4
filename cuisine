@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>cuisine</title>
+     
+        <header></header>
+        <div class="box">
+           <h2>Why we have cuisines</h2>
+           <p id="description">Cuisines exist because food is a foundational expression of culture, shaped by geography, history, and survival. They evolve to maximize local, seasonal ingredients, adapting to climate (e.g., preserving food in cold regions) and reflecting shared history, trade, and social rituals. Cuisines define regional identity, foster community, and make food both nutritious and enjoyable. Cultural Identity and Heritage: Food is a language and tradition passed down, connecting individuals to their roots.
+History and Migration: The movement of people carries recipes, while trade routes introduced new ingredients like spices and crops (e.g., the Columbian Exchange).
+Practicality and Survival: Cuisines often evolve from the need to use locally available ingredients in creative ways to create delicious meals from simple staples.
+Social Rituals and Tradition: Food acts as a connector, socializer, and key component of celebrations or daily life.</p>
+           <h3>whats special about cuisines</h3>
+           <p>Cuisines are special because they are not merely food, but a physical expression of a culture's history, geography, and values. They represent a unique, coherent style of cooking that differentiates one group from another through specific ingredients, techniques, and shared heritage.</p>
+           
+           <p>linking a video</p>
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/cqcVT-X2hXs?si=TIL0pFoOc1_W_smp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+       </div>
+        <header></header>
+    </body>
+       <style>
+        .box{
+            background-color: rgb(255, 238, 184);
+            color: aqua;
+            margin: 10px;
+            padding: 50px;
+            border: 20px solid red;
+
+        }
+        html{
+          background-color: aquamarine;
+          }
+       </style>
+    </head>
+
+
+    
+</html>
